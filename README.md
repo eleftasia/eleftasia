@@ -17,7 +17,7 @@ I am...
 - :books: studying Computer Science.
 - :robot: researching artificial life and evolutionary robotics in the [Xenobot Lab](https://www.xenobot.group/).
 - 🧬 writing open-source synthetic biology software in the [Leonard Lab](https://www.leonard.northwestern.edu).
-- :sparkling_heart: human-computer interaction, computing education, creatve and interactive coding, and creating interfaces that make it easier for people to write and understand programs!
+- :sparkling_heart: human-computer interaction, computing education, creative and interactive coding, and creating interfaces that make it easier for people to write and understand programs!
 - :speech_balloon: a supporter of free and open source software, technological decentralization, and solarpunk.
 
 ---
