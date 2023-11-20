@@ -59,5 +59,5 @@ I am...
 
 ---
 
-![Top Langs](https://github-readme-stats-pmwof1bsg-ellifteria.vercel.app/api/top-langs/?username=ellifteria&exclude_repo=github-readme-stats,ellifteria,blog,alexeberes.github.io,hugo-theme-hello-friend-ng,xenobot_lab_notebook,xenobot_lab_notebook,CS213-AttackLab,old-blog,CS211FinalProject,astronvim-config,CS213-BombLab,CS-213,CS-376&langs_count=10&hide=assembly,cython,html,javascript,css,scss,processing,shell,cmake,makefile,procfile&theme=transparent&layout=compact)
+![Top Langs](https://github-readme-stats-pmwof1bsg-ellifteria.vercel.app/api/top-langs/?username=ellifteria&exclude_repo=github-readme-stats,ellifteria,blog,alexeberes.github.io,hugo-theme-hello-friend-ng,xenobot_lab_notebook,xenobot_lab_notebook,CS213-AttackLab,old-blog,CS211FinalProject,astronvim-config,CS213-BombLab,CS-213,CS-376&langs_count=13&hide=assembly,cython,html,javascript,css,scss,processing,shell,cmake,makefile,procfile&theme=transparent&layout=compact)
 
