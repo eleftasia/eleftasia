@@ -25,29 +25,44 @@ I am...
 ### :hammer_and_wrench: Languages and Tools I Use:
 
 <div>
-  <a href="https://fsharp.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" title="F#" alt="F#" height="40"/>&nbsp;
-  </a>
-  <a href="https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" title="C" alt="C" height="40"/>&nbsp;
+  <a href="https://www.khronos.org/webgl/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" title="WebGL" alt="WebGL" height="40"/>&nbsp;
   </a>
   <a href="https://www.rust-lang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" height="40"/>&nbsp;
   </a>
-  <a href="https://julialang.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" height="40"/>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" height="40"/>&nbsp;
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" height="40"/>&nbsp;
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" height="40"/>&nbsp;
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" height="40"/>&nbsp;
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" height="40"/>&nbsp;
+  </a>
+  <a href="https://go.dev" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" height="40"/>&nbsp;
+  </a>
+<!--   <a href="https://fsharp.org" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" title="F#" alt="F#" height="40"/>&nbsp;
+  </a> -->
+  <a href="https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" title="C" alt="C" height="40"/>&nbsp;
+  </a>
+  <a href="https://julialang.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" height="40"/>&nbsp;
   </a>
   <a href="https://elixir-lang.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" height="40"/>&nbsp;
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" height="40"/>&nbsp;
-  </a>
-  <a href="https://go.dev" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" height="40"/>&nbsp;
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" height="40"/>&nbsp;
