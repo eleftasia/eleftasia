@@ -17,8 +17,7 @@ I am...
 - :books: studying Computer Science.
 - :robot: researching artificial life and evolutionary robotics in the [Xenobot Lab](https://www.xenobot.group/).
 - 🧬 writing open-source synthetic biology software in the [Leonard Lab](https://www.leonard.northwestern.edu).
-- :sparkling_heart: human-computer interaction, computing education, creative and interactive coding, and creating interfaces that make it easier for people to write and understand programs!
-- :speech_balloon: a supporter of free and open source software, technological decentralization, and solarpunk.
+- :sparkling_heart: computing education, programming systems, human-computer interaction, and creating interfaces and tools that make it easier for people to learn, interact with, and understand computing!
 
 ---
 
@@ -33,6 +32,8 @@ I am...
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" title="F#" alt="F#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" title="Racket" alt="Rackey" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
