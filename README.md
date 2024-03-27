@@ -1,27 +1,25 @@
-# Hi! 👋🏻 I'm Elli
+# Hello, World! I'm Elli
 
 ```yaml
 ---
 info:
     name: Elli
-        in Greek: Έλλη
         short for: Eleftheria
-            in Greek: Ελευθερία
     pronouns: (she/her/hers)
 ```
 
-## I'm an undergraduate student at Northwestern University :purple_heart:
+## I'm an undergraduate student at Northwestern University
 
 I am...
 
-- :books: studying Computer Science.
-- :robot: researching artificial life and evolutionary robotics in the [Xenobot Lab](https://www.xenobot.group/).
-- 🧬 writing open-source synthetic biology software in the [Leonard Lab](https://www.leonard.northwestern.edu).
-- :sparkling_heart: computing education, programming systems, and creating programming languages and interfaces that make it easier for people to learn, interact with, and understand computing!
+- studying Computer Science.
+- researching artificial life and evolutionary robotics in the [Xenobot Lab](https://www.xenobot.group/).
+- writing open-source synthetic biology software in the [Leonard Lab](https://www.leonard.northwestern.edu).
+- interested in computing education, programming systems, and creating programming languages and interfaces that make it easier for people to learn, interact with, and understand computing!
 
 ---
 
-### :hammer_and_wrench: Languages and Tools I Use:
+### Languages and Tools I Use:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
