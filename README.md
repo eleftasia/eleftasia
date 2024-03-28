@@ -1,21 +1,23 @@
 # Hello, World! I'm Elli
 
-```yaml
----
-info:
-    name: Elli
-        short for: Eleftheria
-    pronouns: (she/her/hers)
 ```
-
-## I'm an undergraduate student at Northwestern University
-
-I am...
-
-- studying Computer Science.
-- researching artificial life and evolutionary robotics in the [Xenobot Lab](https://www.xenobot.group/).
-- writing open-source synthetic biology software in the [Leonard Lab](https://www.leonard.northwestern.edu).
-- interested in computing education, programming systems, and creating programming languages and interfaces that make it easier for people to learn, interact with, and understand computing!
+> cat about-me.yml
+---
+name: "elli"
+	short_for: "eleftheria"
+pronouns: "she/her/hers"
+studying: "computer science"
+	at: "northwestern"
+		level: "undergrad"
+starting_next_fall: "ph.d. in computer science"
+	at: "undefined; cannot reference an identifier before its definition"
+research_interests:
+	- "cs education"
+	- "programming systems"
+		- "pl"
+		- "software engineering"
+	- "hci"
+```
 
 ---
 
