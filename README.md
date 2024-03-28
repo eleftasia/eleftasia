@@ -42,5 +42,5 @@ I am...
 
 ---
 
-![Top Langs](https://github-readme-stats-i3gfqu10r-ellifteria.vercel.app/api/top-langs/?username=ellifteria&exclude_repo=github-readme-stats,ellifteria,blog,alexeberes.github.io,hugo-theme-hello-friend-ng,xenobot_lab_notebook,xenobot_lab_notebook,CS213-AttackLab,old-blog,CS211FinalProject,astronvim-config,CS213-BombLab,CS-213,CS-376,cs213-setilab,grad-school-apps,cs-335,hugo-atriblowfish,digitalgarden,last-athenaeum,quartz,Atri-Demo,GameIdeasSelfWiki&langs_count=10&hide=assembly,cython,processing,shell,cmake,makefile,procfile&theme=transparent&layout=compact)
+![Top Langs](https://github-readme-stats-i3gfqu10r-ellifteria.vercel.app/api/top-langs/?username=ellifteria&exclude_repo=github-readme-stats,ellifteria,blog,alexeberes.github.io,hugo-theme-hello-friend-ng,xenobot_lab_notebook,xenobot_lab_notebook,CS213-AttackLab,old-blog,CS211FinalProject,astronvim-config,CS213-BombLab,CS-213,CS-376,cs213-setilab,grad-school-apps,cs-335,hugo-atriblowfish,digitalgarden,last-athenaeum,quartz,Atri-Demo,GameIdeasSelfWiki,CS-351-ProjectC,CS-351-ProjectB,CS-351-ProjectA&langs_count=10&hide=assembly,cython,processing,shell,cmake,makefile,procfile&theme=transparent&layout=compact)
 
