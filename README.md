@@ -10,7 +10,7 @@ studying: "computer science"
 	at: "northwestern"
 		level: "undergrad"
 starting_next_fall: "ph.d. in computer science"
-	at: "undefined; cannot reference an identifier before its definition"
+	at: "university of washington"
 research_interests:
 	- "cs education"
 	- "programming systems"
