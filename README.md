@@ -1,11 +1,26 @@
 ```sh
-guest@github.com/ellifteria/ellifteria:~$ cat about-me.txt
-Hello World!
-I'm Elli Beres (she/her/hers).
-I'm an incoming CSE Ph.D. student at the University of Washington working with Dr. Mike Ernst, Dr. Amy Ko, and Dr. Ben Shapiro at the intersection of PLSE and Computing Education.
-I recieved a BS in CS from Northwestern University.
+guest@github.com:~$ cd ellifteria/ellifteria
+guest@github.com:~$ cat about-me.txt
 
-I'm interested in programming languages, software engineering, computing education, and how to make it easier for learners and non-computer scientists to write programs!
+ ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ 
+||E |||l |||l |||i |||       |||B |||e |||r |||e |||s ||
+||__|||__|||__|||__|||_______|||__|||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|
+
+Hello World!
+I'm Elli (she/her/hers).
+
+I'm an incoming CSE Ph.D. student at the University of Washington
+working with Dr. Mike Ernst, Dr. Amy Ko, and Dr. Ben Shapiro
+at the intersection of PLSE and Computing Education.
+
+I recieved my BS in Computer Science from Northwestern University.
+
+I'm interested in:
+- programming languages,
+- software engineering,
+- computing education,
+- making it easier for learners and non-computer scientists to write programs!
 ```
 
 ---
