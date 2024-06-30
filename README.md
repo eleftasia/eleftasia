@@ -10,17 +10,21 @@ guest@github.com:~$ cat about-me.txt
 Hello World!
 I'm Elli (she/her/hers).
 
-I'm an incoming CSE Ph.D. student at the University of Washington
-working with Dr. Mike Ernst, Dr. Amy Ko, and Dr. Ben Shapiro
-at the intersection of PLSE and Computing Education.
+I'm an incoming CSE Ph.D. student at the
+University of Washington working with
+Dr. Mike Ernst, Dr. Amy Ko, and Dr. Ben
+Shapiro at the intersection of PLSE
+and Computing Education.
 
-I recieved my BS in Computer Science from Northwestern University.
+I recieved my BS in Computer Science from
+Northwestern University.
 
 I'm interested in:
 - programming languages,
 - software engineering,
 - computing education,
-- making it easier for learners and non-computer scientists to write programs!
+- making it easier for learners and non-computer
+  scientists to write programs!
                                                     
  _______           _                                
 |  ___) \         | |                               
