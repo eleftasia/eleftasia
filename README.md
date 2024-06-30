@@ -1,22 +1,11 @@
-# Hello, World! I'm Elli
+```sh
+guest@github.com/ellifteria/ellifteria:~$ cat about-me.txt
+Hello World!
+I'm Elli Beres (she/her/hers).
+I'm an incoming CSE Ph.D. student at the University of Washington working with Dr. Mike Ernst, Dr. Amy Ko, and Dr. Ben Shapiro at the intersection of PLSE and Computing Education.
+I recieved a BS in CS from Northwestern University.
 
-```
-> cat about-me.yml
----
-name: "elli"
-	short_for: "eleftheria"
-pronouns: "she/her/hers"
-studying: "computer science"
-	at: "northwestern"
-		level: "undergrad"
-starting_next_fall: "ph.d. in computer science"
-	at: "university of washington"
-research_interests:
-	- "cs education"
-	- "programming systems"
-		- "pl"
-		- "software engineering"
-	- "hci"
+I'm interested in programming languages, software engineering, computing education, and how to make it easier for learners and non-computer scientists to write programs!
 ```
 
 ---
@@ -33,16 +22,12 @@ research_interests:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" title="F#" alt="F#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-line.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="41" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
----
-
-![Top Langs](https://github-readme-stats-nmiyoknq0-ellifteria.vercel.app/api/top-langs/?username=ellifteria&exclude_repo=github-readme-stats,ellifteria,blog,alexeberes.github.io,hugo-theme-hello-friend-ng,xenobot_lab_notebook,xenobot_lab_notebook,CS213-AttackLab,old-blog,CS211FinalProject,astronvim-config,CS213-BombLab,CS-213,CS-376,cs213-setilab,grad-school-apps,cs-335,hugo-atriblowfish,digitalgarden,last-athenaeum,quartz,Atri-Demo,GameIdeasSelfWiki,CS-351-ProjectC,CS-351-ProjectB,CS-351-ProjectA&langs_count=10&hide=assembly,cython,processing,shell,cmake,makefile,procfile&theme=transparent&layout=compact)
 
