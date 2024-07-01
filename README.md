@@ -1,4 +1,4 @@
-```sh
+```
 guest@github.com:~$ cd ellifteria/ellifteria
 guest@github.com:~$ cat about-me.txt
 
