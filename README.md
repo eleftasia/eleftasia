@@ -25,16 +25,6 @@ I'm interested in:
 - computing education,
 - making it easier for learners and non-computer
   scientists to write programs!                                                    
-                                                 
- _______           _     ___                     
-|  ___) \         | |   / _ \                    
-| |_   \ \   ___ _| |_ | |_| |___  ___  _  __  __
-|  _)   > \ / __)     \|  _  / __)/ _ \| |/  \/ /
-| |___ / ^ \> _| (| |) ) |_| > _)| |_) ) ( ()  < 
-|_____)_/ \_\___)_   _/ \___/\___)  __/ \_)__/\_\
-                  | |            | |             
-                  |_|            |_|             
-
 ```
 
 ---
