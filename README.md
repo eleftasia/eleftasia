@@ -24,7 +24,7 @@ I'm interested in:
 - software engineering,
 - computing education,
 - making it easier for learners and non-computer
-  scientists to write programs!                                                    
+  scientists to write programs!
 ```
 
 ---
