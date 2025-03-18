@@ -1,6 +1,3 @@
-```
-guest@github.com:~$ cd ellifteria/ellifteria
-guest@github.com:~$ cat about-me.md
 
  ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ 
 ||E |||l |||l |||i |||       |||B |||e |||r |||e |||s ||
@@ -36,9 +33,9 @@ Center for Robotics and Biosystems
 at Northwestern University.
 
 I'm interested in:
+
 - scientific computing
 - software engineering
 - synthetic biology
 - programming languages
 - computing education
-```
