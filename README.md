@@ -13,7 +13,7 @@ I'm Elli (she/her/hers).
 I'm a Computer Science PhD student at
 the University of Washington working
 with Dr. Mike Ernst, Dr. Amy Ko, and Dr.
-Ben Shapiro in the of Programming
+Ben Shapiro in the Programming
 Languages & Software Engineering (PLSE)
 and Learning, Computing, and Imagination
 (LCI) research groups.
