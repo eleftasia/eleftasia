@@ -1,5 +1,5 @@
 ``````
-guest@github.com:~$ cd ellifteria/ellifteria
+guest@github.com:~$ cd eleftasia/eleftasia
 guest@github.com:~$ cat about-me.md
 ```
  ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ 
