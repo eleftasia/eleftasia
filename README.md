@@ -19,14 +19,6 @@ Languages & Software Engineering (PLSE)
 and Learning, Computing, and Imagination
 (LCI) research groups.
 
-My primary research is in scientific 
-software engineering. How can we make
-science more efficient and more reproducible
-by making it easier for scientists to write
-good software? I'm also interested in
-scientific computing education and in
-synthetic biology.
-
 Before coming to UW, I recieved my BS
 in Computer Science from Northwestern
 University.
