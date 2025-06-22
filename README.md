@@ -30,3 +30,7 @@ I'm interested in:
 - computing education
 - software engineering
 ``````
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleftasia&layout=donut-vertical&langs_count=11)](https://github-readme-stats-one-ochre-36.vercel.app/)
