@@ -9,20 +9,7 @@ Hello World!
 I'm Elli (she/her/hers).
 
 I'm a Computer Science PhD student at
-the University of Washington working
-with Dr. Mike Ernst, Dr. Amy Ko, and Dr.
-Ben Shapiro in the of Programming
-Languages & Software Engineering (PLSE)
-and Learning, Computing, and Imagination
-(LCI) research groups.
-
-My primary research is in scientific 
-software engineering. How can we make
-science more efficient and more reproducible
-by making it easier for scientists to write
-good software? I'm also interested in
-scientific computing education and in
-synthetic biology.
+the University of Washington.
 
 Before coming to UW, I recieved my BS
 in Computer Science from Northwestern
@@ -34,9 +21,8 @@ Center for Robotics and Biosystems
 at Northwestern University.
 
 I'm interested in:
-
-- scientific computing
-- software engineering
 - synthetic biology
-- programming languages
+- computational systems biology
+- scientific computing
 - computing education
+- software engineering
